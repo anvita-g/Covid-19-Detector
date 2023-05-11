@@ -9,10 +9,29 @@ Features of the CNN:
     - Output Layer: The final layer uses the sigmoid activation function to produce a binary classification output, indicating COVID-19 positive or negative.
 
 
+    
+
+
+
+
+    
 Sources
     - Negative cases data set : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
     - Positive cases data set: https://github.com/ieee8023/covid-chestxray-dataset
     - Coding Blocks tutorial on youtube (Detecting COVID-19 from X-Ray| Training a Convolutional Neural Network | Deep Learning) was used as a guide
+
+
+    
+
+
+
+
+
+
+
+
+
+
 
 
 
