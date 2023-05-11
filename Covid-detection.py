@@ -71,3 +71,5 @@ hist = model.fit(
     validation_data=test_gen,
     validation_steps=2
 )
+
+model.save("covid_detector_model.h5")
